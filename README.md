@@ -1,7 +1,7 @@
 # Raft
 Reading Note of Raft
 
-<<CONSENSUS: BRIDGING THEORY AND PRACTICE>>详细笔记
+<<CONSENSUS: BRIDGING THEORY AND PRACTICE>>详细中文笔记
 
 
 No Commercial Use!
